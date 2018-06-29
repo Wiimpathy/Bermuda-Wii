@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Bermuda Syndrome Wii</name>
+  <coder>Wiimpathy</coder>
+  <version>0.4</version>
+  <release_date>20180628</release_date>
+  <short_description>Bermuda Syndrome engine port</short_description> 
+  <long_description>You need the original data files in order to play.
+Bermuda Syndrome is a PC game developed by Century Interactive and released in 1995
+It's an action/adventure game and is similar to Flashback.
+</long_description> 
+  <no_ios_reload/>
+</app>
+

@@ -1,0 +1,964 @@
+psytune.c
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[2]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[2]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[2]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[2]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[3]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[3]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[3]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:46: warning: (near initialization for '_psy_set0G.preecho_thresh[3]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:55: error: expected '=', ',', ';', 'asm' or '__attribute__' before '_vp_part0'
+i:/setup/libvorbis-1.2.0/lib/psytune.c:63: error: expected '=', ',', ';', 'asm' or '__attribute__' before '_vp_couple0'
+i:/setup/libvorbis-1.2.0/lib/psytune.c:70: error: 'ATH_Bark_dB_lineaggressive' undeclared here (not in a function)
+i:/setup/libvorbis-1.2.0/lib/psytune.c:82: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:82: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:83: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:84: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:85: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:87: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:88: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:89: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:90: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:91: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:92: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:93: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:94: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:95: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:96: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:98: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:100: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:101: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:102: warning: (near initialization for '_psy_set0.tone_centerboost')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:107: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:108: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:109: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:110: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:111: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:112: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:113: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:114: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:115: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:116: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:117: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:118: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:119: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:120: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:121: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:122: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:123: warning: (near initialization for '_psy_set0.tone_abs_limit')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:133: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:133: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:133: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:133: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:134: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:134: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:134: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:134: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:135: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:135: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:135: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:135: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:136: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:136: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:136: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:136: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:137: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:137: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:137: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:137: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:138: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:138: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:138: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:138: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:139: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:139: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:139: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:139: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:140: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:140: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:140: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:140: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:141: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:141: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:141: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:141: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:142: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:142: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:142: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:142: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:143: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:143: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:143: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:143: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:144: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:144: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:144: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:144: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:145: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:145: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:145: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:145: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:146: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:146: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:146: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:146: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:147: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:147: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:147: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:147: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:148: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:148: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:148: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:148: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:149: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:149: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:149: warning: excess elements in scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:149: warning: (near initialization for '_psy_set0.toneatt[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:157: error: '_vp_part0' undeclared here (not in a function)
+i:/setup/libvorbis-1.2.0/lib/psytune.c:157: error: '_vp_couple0' undeclared here (not in a function)
+i:/setup/libvorbis-1.2.0/lib/psytune.c:181: warning: excess elements in struct initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:181: warning: (near initialization for '_floor_set0')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:182: warning: excess elements in struct initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:182: warning: (near initialization for '_floor_set0')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:182: warning: excess elements in struct initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:182: warning: (near initialization for '_floor_set0')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:183: warning: excess elements in struct initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:183: warning: (near initialization for '_floor_set0')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:186: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:186: warning: (near initialization for 'mapping_info.coupling_steps')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:186: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:186: warning: (near initialization for 'mapping_info.coupling_mag[2]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:186: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:186: warning: (near initialization for 'mapping_info.coupling_mag[3]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:188: warning: initialization makes pointer from integer without a cast
+i:/setup/libvorbis-1.2.0/lib/psytune.c:189: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:189: warning: (near initialization for 'codec_setup0.mode_param[1]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:190: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:190: warning: (near initialization for 'codec_setup0.mode_param[2]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:190: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:190: warning: (near initialization for 'codec_setup0.mode_param[3]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:190: warning: initialization from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:191: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:191: warning: (near initialization for 'codec_setup0.mode_param[4]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:191: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:191: warning: (near initialization for 'codec_setup0.mode_param[5]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:192: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:192: warning: (near initialization for 'codec_setup0.mode_param[6]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:192: warning: initialization makes pointer from integer without a cast
+i:/setup/libvorbis-1.2.0/lib/psytune.c:192: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:192: warning: (near initialization for 'codec_setup0.mode_param[7]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:192: warning: initialization from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:193: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:193: warning: (near initialization for 'codec_setup0.mode_param[8]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:193: warning: initialization makes pointer from integer without a cast
+i:/setup/libvorbis-1.2.0/lib/psytune.c:193: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:193: warning: (near initialization for 'codec_setup0.mode_param[9]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:194: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:194: warning: (near initialization for 'codec_setup0.mode_param[10]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:195: warning: braces around scalar initializer
+i:/setup/libvorbis-1.2.0/lib/psytune.c:195: warning: (near initialization for 'codec_setup0.mode_param[11]')
+i:/setup/libvorbis-1.2.0/lib/psytune.c:195: warning: initialization from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:196: warning: initialization from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c: In function 'main':
+i:/setup/libvorbis-1.2.0/lib/psytune.c:286: warning: assignment makes pointer from integer without a cast
+i:/setup/libvorbis-1.2.0/lib/psytune.c:291: error: too many arguments to function '_floor_P[1]->look'
+i:/setup/libvorbis-1.2.0/lib/psytune.c:389: error: 'vorbis_func_floor' has no member named 'forward'
+i:/setup/libvorbis-1.2.0/lib/psytune.c:404: warning: passing argument 2 of '_vp_remove_floor' from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:404: warning: passing argument 3 of '_vp_remove_floor' from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:404: warning: passing argument 5 of '_vp_remove_floor' makes integer from pointer without a cast
+i:/setup/libvorbis-1.2.0/lib/psytune.c:404: error: too many arguments to function '_vp_remove_floor'
+i:/setup/libvorbis-1.2.0/lib/psytune.c:428: warning: passing argument 1 of '_vp_couple' makes integer from pointer without a cast
+i:/setup/libvorbis-1.2.0/lib/psytune.c:428: warning: passing argument 2 of '_vp_couple' from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:428: warning: passing argument 3 of '_vp_couple' from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:428: warning: passing argument 4 of '_vp_couple' from incompatible pointer type
+i:/setup/libvorbis-1.2.0/lib/psytune.c:428: error: too few arguments to function '_vp_couple'
+make[1]: *** [psytune.o] Error 1
+make: *** [build] Error 2
